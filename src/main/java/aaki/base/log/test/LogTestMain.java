@@ -1,12 +1,12 @@
-package aaki.component.log.test;
+package aaki.base.log.test;
 
-import aaki.component.data.value.DataType;
-import aaki.component.data.value.ValueBoolean;
-import aaki.component.data.value.ValueDouble;
-import aaki.component.data.value.ValueImplement;
-import aaki.component.data.value.ValueInteger;
-import aaki.component.data.value.ValueLong;
-import aaki.component.data.value.ValueString;
+import aaki.base.data.value.DataType;
+import aaki.base.data.value.ValueBoolean;
+import aaki.base.data.value.ValueDouble;
+import aaki.base.data.value.ValueImplement;
+import aaki.base.data.value.ValueInteger;
+import aaki.base.data.value.ValueLong;
+import aaki.base.data.value.ValueString;
 import jdk.nashorn.internal.parser.JSONParser;
 
 /**

@@ -1,4 +1,4 @@
-package aaki.component.log.log;
+package aaki.base.log.log;
 
 /**
  * Created by skkim on 8/25/16.
