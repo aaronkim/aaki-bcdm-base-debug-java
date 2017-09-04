@@ -1,1 +1,1 @@
-# aaki-component-log-java
+# bcdm-base-log-java
